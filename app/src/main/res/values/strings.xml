@@ -1,0 +1,4 @@
+<resources>
+    <!-- 每次打包时会被云端工作流用"应用名"覆盖，不要手动改 -->
+    <string name="app_name">Galgame</string>
+</resources>

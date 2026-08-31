@@ -1,0 +1,4 @@
+<resources>
+    <!-- 应用图标背景色，想换颜色改这里 -->
+    <color name="ic_launcher_background">#3F51B5</color>
+</resources>
